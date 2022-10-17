@@ -31,7 +31,7 @@ plugins:
         #render_js: true
         #headless_chrome_path: headless-chromium
         #
-        output_path: ../向家祖训.pdf
+        output_path: ../zuxun.pdf
         #enabled_if_env: ENABLE_PDF_EXPORT
         #
         #debug_html: true
