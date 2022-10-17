@@ -1,5 +1,7 @@
 # zuxun
 
+[祖训](https://xiang-family.github.io/zuxun/)
+
 ## Installation
 ```bash
 pip install mkdocs-material
