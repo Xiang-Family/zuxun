@@ -1,5 +1,6 @@
 site_name: 向家祖训
 theme: readthedocs
+repo_url: https://github.com/Xiang-Family/zuxun
 plugins:
     - with-pdf:
         author: 向氏
