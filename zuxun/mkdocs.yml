@@ -1,5 +1,5 @@
 site_name: 向家祖训
-theme: material
+theme: readthedocs
 plugins:
     - with-pdf:
         author: 向氏
