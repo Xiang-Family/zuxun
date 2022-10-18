@@ -1,5 +1,6 @@
 site_name: 向家祖训
-theme: readthedocs
+theme:
+    name: gitbook
 repo_url: https://github.com/Xiang-Family/zuxun
 repo_name: GitHub
 plugins:
