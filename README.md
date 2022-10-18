@@ -4,7 +4,7 @@
 
 ## Installation
 ```bash
-pip install mkdocs-material
+pip install mkdocs-gitbook
 ```
 ## Contribute
 1. modify [zuxun/*](https://github.com/Xiang-Family/zuxun/tree/main/zuxun)
