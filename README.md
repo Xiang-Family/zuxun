@@ -2,8 +2,10 @@
 
 [祖训](https://xiang-family.github.io/zuxun/)
 
-## Installation
+## Installation (Linux)
 ```bash
+pip install mkdocs
+pip install mkdocs-with-pdf
 pip install mkdocs-gitbook
 ```
 ## Contribute
