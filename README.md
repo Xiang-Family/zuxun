@@ -16,4 +16,9 @@ pip install mkdocs-gitbook
    mkdocs serve # 看看有没有报错
    
    mkdocs build -d ../docs # 之后github pages会重新部署
+   
+   # push
+   git add --all
+   git commit -m "updates"
+   git push
    ```
