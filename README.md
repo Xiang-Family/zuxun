@@ -9,10 +9,11 @@ pip install mkdocs-with-pdf
 pip install mkdocs-gitbook
 ```
 ## Contribute
-1. modify [zuxun/*](https://github.com/Xiang-Family/zuxun/tree/main/zuxun)
+0. 打开codespace
+1. modify [documents/docs/*](https://github.com/Xiang-Family/zuxun/tree/main/documents/docs)
 2. ```bash
    # under root directory
-   cd zuxun
+   cd documents
    mkdocs serve # 看看有没有报错
    
    mkdocs build -d ../docs # 之后github pages会重新部署
